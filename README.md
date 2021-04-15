@@ -4,3 +4,5 @@
 ![Stats (SrPattif)](https://github-readme-stats.vercel.app/api?username=SrPattif&show_icons=true&theme=radical)
 
 ![WakaTime (SrPattif)](https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=radical)
+
+wakatime stats since 2021/04/13
