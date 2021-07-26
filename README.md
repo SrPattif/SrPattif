@@ -1,6 +1,6 @@
 ### Hey, there! 👋
 
-### About me 🐬
+### 🐬 About me
 
 - 🖐️ I'm Gustavo
 - 🖥️ I’m currently work from Home
@@ -9,14 +9,16 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: A professional StackOverflow user.
 
-### Awards
+### 🏅 Awards
 <p>asap</p>
 
-### Pins
+### 📌 Pins
 <p>asap</p>
 
-### Working
+### 📦 Working
 - Currently working on 
+
+
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPattif&theme=blueberry" alt="SrPattif"/>
