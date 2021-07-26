@@ -10,10 +10,13 @@
 - ⚡ Fun fact: A professional StackOverflow user.
 
 ### Awards
-     asap
+<p>asap</p>
 
 ### Pins
-     asap
+<p>asap</p>
+
+### Working
+- Currently working on 
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPattif&theme=blueberry" alt="SrPattif"/>
