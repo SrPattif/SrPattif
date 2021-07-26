@@ -21,14 +21,9 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SrPattif&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SrPattif&count_private=true&show_icons=true&theme=blueberry" width=54% height="204px"/>
 </p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" width=55% height="204px"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SrPattif&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&compact=true&theme=blueberry" width=50% height="200px"/>
 </p>
