@@ -1,5 +1,4 @@
 ### Hey, there! 👋
-<p>I'm 14 years old and a Java Developer since 2018.</p>
 
 ### About me 🐬
 
