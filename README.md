@@ -25,5 +25,5 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" width=40% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" width=55% height="204px"/>
 </p>
