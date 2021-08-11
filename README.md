@@ -6,7 +6,7 @@
 - 🖥️ I’m currently work from Home
 - 🌱 I’m currently learning about Android Applications :)
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: A professional StackOverflow user.
 
 ### 🏅 Awards
