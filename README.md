@@ -22,6 +22,8 @@
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPattif&theme=blueberry" alt="SrPattif"/>
+</p>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=SrPattif&count_private=true&show_icons=true&theme=blueberry" width=54% height="204px"/>
 </p>
 
