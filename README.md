@@ -18,7 +18,7 @@
 ### 📦 Working
 - Currently working on <b>Atom Payments</b>
 
-<!---
+### 🔮 Stats
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPattif&theme=blueberry" alt="SrPattif"/>
@@ -31,4 +31,4 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" width=55% height="204px"/>
 </p>
--->
+WakaTime info since <b>08/2020</b>
