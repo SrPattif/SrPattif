@@ -9,14 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a developer, but I want to graduate in Biomedicine.
 
-### 🏅 Awards
-<p>asap</p>
-
 ### 📌 Pins
 <p>asap</p>
 
 ### 📦 Working
-- Currently working on <b>Atom Payments</b>
+- Currently working on <b>[Atom Link](https://dev.bukkit.org/projects/atom-link)</b>
 
 ### 🔮 Stats
 
