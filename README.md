@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning about Android Applications :)
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a developer, but I want to graduate in Biomedicine.
 
 ### 📌 Pins
 <p>asap</p>
