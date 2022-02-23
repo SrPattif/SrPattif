@@ -6,11 +6,8 @@
 - 🖥️ I’m currently work from Home
 - 🌱 I’m currently learning about Android Applications :)
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He / Him
 
-//### 📌 Pins
-//<p>asap</p>
-//
 ### 📦 Working
 - Currently working on <b>Payoo</b>
 
