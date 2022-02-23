@@ -8,11 +8,11 @@
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
 - 😄 Pronouns: He/Him
 
-### 📌 Pins
-<p>asap</p>
-
+//### 📌 Pins
+//<p>asap</p>
+//
 ### 📦 Working
-- Currently working on <b>[Atom Link](https://dev.bukkit.org/projects/atom-link)</b>
+- Currently working on <b>Payoo</b>
 
 ### 🔮 Stats
 
