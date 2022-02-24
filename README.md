@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=SrPattif&style=for-the-badge)
+
 ### Hey, there! 👋
 
 ### 🐬 About me
