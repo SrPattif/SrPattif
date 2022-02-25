@@ -26,7 +26,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" height="250px"/>
 </p>
-WakaTime info since <b>08/2020</b>
+WakaTime info since <b>04/2021</b>
 
 
 ---
