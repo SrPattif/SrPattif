@@ -4,14 +4,14 @@
 
 ### 🐬 About me
 
-- 🖐️ I'm Gustavo
+- 🖐️ My name is Gustavo
 - 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning about Android Applications :)
+- 🌱 I’m currently learning about Web Development :)
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
 - 😄 Pronouns: He / Him
 
 ### 📦 Working
-- Currently working on <b>Payoo</b>
+Currently working on <b>Payoo</b>.
 
 ### 🔮 Stats
 
