@@ -5,7 +5,7 @@
 ### 🐬 About me
 
 - 🖐️ My name is Gustavo
-- 🖥️ I’m currently work from Home
+- 🖥️ I’m currently working from Home
 - 🌱 I’m currently learning about Web Development :)
 - 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
 - 😄 Pronouns: He / Him
