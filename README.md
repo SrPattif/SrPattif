@@ -28,6 +28,9 @@ Currently working on <b>TechUniverse</b>.
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" height="250px"/>
 </p>
+<p>
+[![wakatime](https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg)](https://wakatime.com/@c0ee8f9f-ed06-4ce4-8839-296a12dd152a)
+</p>
 WakaTime info since <b>04/2021</b>
 
 
