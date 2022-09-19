@@ -7,7 +7,7 @@
 - 🖐️ My name is Gustavo
 - 🖥️ I’m currently working from Home
 - 🌱 I’m currently learning about Web Development :)
-- 📫 How to reach me: [Twitter - @ogustavo_a](https://twitter.com/ogustavo_a)
+- 📫 How to reach me: [Twitter - @srpattif_dev](https://twitter.com/srpattif_dev)
 - 😄 Pronouns: He / Him
 
 ### 📦 Working
