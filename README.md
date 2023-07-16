@@ -5,13 +5,13 @@
 ### 🐬 About me
 
 - 🖐️ My name is Gustavo
-- 🖥️ I’m currently working from Home
-- 🌱 I’m currently learning about Web Development :)
+- 🖥️ I’m currently working on Grupo Madero, but not on IT.
+- 🌱 I’m currently learning about ERP Systems :)
 - 📫 How to reach me: [Twitter - @srpattif_dev](https://twitter.com/srpattif_dev)
 - 😄 Pronouns: He / Him
 
 ### 📦 Working
-Currently working on <b>Listify</b>.
+Currently working on <b>an ERP System</b>.
 
 ### 🔮 Stats
 
