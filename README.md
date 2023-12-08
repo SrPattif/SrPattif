@@ -5,8 +5,7 @@
 ### 🐬 About me
 
 - 🖐️ My name is Gustavo
-- 🖥️ I’m currently working on Grupo Madero, but not on IT.
-- 🌱 I’m currently learning about ERP Systems :)
+- 🖥️ I’m currently working as Backend Developer on Grupo Madero.
 <!--
 - 📫 How to reach me: [Twitter - @srpattif_dev](https://twitter.com/srpattif_dev)
 - 😄 Pronouns: He / Him
