@@ -32,6 +32,8 @@ Currently working on <b>an ERP System</b>.
 <p>
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 WakaTime info since <b>04/2021</b>
 
 
