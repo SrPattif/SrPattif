@@ -58,11 +58,11 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 
 #### Utilidades
 
+![Postman](https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
+
 #### DevOps
 
 #### Ferramentas
-
-![Postman](https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 <!-- WAKATIME -->
