@@ -33,6 +33,15 @@ Currently working on <b>an ERP System</b>.
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+C#          13 hrs 12 mins  ████████████████████▓░░░░   82.40 %
+Binary      2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+XML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Java        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+```
+
 <!--END_SECTION:waka-->
 WakaTime info since <b>04/2021</b>
 
