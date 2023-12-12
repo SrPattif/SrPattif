@@ -84,21 +84,3 @@ Java        5 mins          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-WakaTime info since <b>04/2021</b>
-
-
----
-
-<p float="left" align="center">
-  <a href="https://github.com/SrPattif">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="32px" height="32px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="32px" height="32px"/>  
-  </a>
-</p>
