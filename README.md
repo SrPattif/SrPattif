@@ -1,31 +1,48 @@
 ![](https://komarev.com/ghpvc/?username=SrPattif&style=for-the-badge)
 
-### Hey, there! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### 🐬 About me
-
-- 🖐️ My name is Gustavo
-- 🖥️ I’m currently working as Backend Developer on Grupo Madero.
-<!--
-- 📫 How to reach me: [Twitter - @srpattif_dev](https://twitter.com/srpattif_dev)
-- 😄 Pronouns: He / Him
--->
-
-### 📦 Working
-Currently working on <b>an ERP System</b>.
-
-### 🔮 Stats
-
- <!--
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPattif&theme=blueberry" alt="SrPattif"/>
+<p align="left"> 
+  Olá! <strong>Meu nome é Gustavo.</strong> Sou apaixonado por desenvolvimento de software desde os 11 anos.<br>
+  Atualmente, sou <strong>Desenvolvedor Backend</strong> no <strong>Grupo Madero</strong>.
 </p>
--->
- <!--
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SrPattif&count_private=true&show_icons=true&theme=blueberry" width=54% height="204px"/>
+
+<p align="left">
+  <strong>🦄 Linguagens:</strong> Utilizo principlalmente <strong>C#</strong>, mas domino <strong>Java</strong> e <strong>PHP</strong>.
 </p>
--->
+
+<p align="left">
+  <strong>💼 Ferramentas:</strong> Eclipse, VSCode, Visual Studio, IIS, SSMS, Postman e muitas outras!
+</p>
+
+<p align="left">
+  <strong>💌 Sinta-se a vontade para entrar em contato! ⤵️</strong>
+</p>
+
+<p align="left">
+  <a href="mailto:ogustavoantonio07@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
+  <a href="https://br.linkedin.com/in/gustavo-antonio-antunes-rodrigues-549a41223" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+
+  <a href="https://www.instagram.com/ogustavo.a/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
+---
+
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/APkrFKbNFi6Ffp9I6h3ryOzEgBfyFqDJWqD_XgUVw9SCXg=s68-c-k-c0x00ffffff-no-rj"/>](https://www.grupomadero.com.br/)
+
+**Desenvolvedor Backend** \
+[**Grupo Madero**](https://grupomadero.com.br/) • Estagiário \
+Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
+<br/>
+
+---
+<!-- WAKATIME -->
 <p>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" height="250px"/>
 </p>
