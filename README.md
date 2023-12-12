@@ -62,7 +62,7 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 
 #### DevOps
 
-#### Ferramentas
+#### Ferramentas de desenvolvimento
 
 ---
 <!-- WAKATIME -->
