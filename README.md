@@ -62,7 +62,16 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 
 #### DevOps
 
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 #### Ferramentas de desenvolvimento
+
+![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-5d2b90?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-6897bb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/ECLIPSE-4a4885?style=for-the-badge&logo=eclipse&logoColor=white)
+![Trello](https://img.shields.io/badge/TRELLO-0079bf?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 <!-- WAKATIME -->
