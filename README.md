@@ -82,7 +82,7 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,9 +99,9 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌆 Daytime                205 commits         █████████████░░░░░░░░░░░░   50.37 % 
-🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
+🌞 Morning                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+🌆 Daytime                205 commits         █████████████░░░░░░░░░░░░   50.25 % 
+🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
@@ -144,5 +144,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2023 13:30:50 UTC
+ Last Updated on 18/12/2023 13:37:04 UTC
 <!--END_SECTION:waka-->
