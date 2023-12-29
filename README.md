@@ -88,6 +88,8 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 
 > 📦 39.4 kB Used in GitHub's Storage 
  > 
+> 🏆 231 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -142,5 +144,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 16:43:51 UTC
+ Last Updated on 29/12/2023 16:50:23 UTC
 <!--END_SECTION:waka-->
