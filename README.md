@@ -76,7 +76,7 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 ---
 <!-- WAKATIME -->
 <p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry" height="250px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry&langs_count=10" height="250px"/>
 </p>
 <p>
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
