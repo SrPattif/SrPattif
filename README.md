@@ -88,8 +88,6 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 
 > 📦 40.1 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -99,10 +97,10 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌆 Daytime                154 commits         ████████████░░░░░░░░░░░░░   49.20 % 
-🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+🌞 Morning                92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+🌆 Daytime                225 commits         ████████████░░░░░░░░░░░░░   47.07 % 
+🌃 Evening                155 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
 
@@ -144,5 +142,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 13:53:04 UTC
+ Last Updated on 09/01/2024 13:58:56 UTC
 <!--END_SECTION:waka-->
