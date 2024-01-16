@@ -82,7 +82,7 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2021%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,5 +142,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2024 11:36:11 UTC
+ Last Updated on 16/01/2024 11:42:00 UTC
 <!--END_SECTION:waka-->
