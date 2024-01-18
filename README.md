@@ -82,13 +82,13 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.6 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
+> 🏆 58 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -142,5 +142,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2024 14:33:48 UTC
+ Last Updated on 18/01/2024 14:40:02 UTC
 <!--END_SECTION:waka-->
