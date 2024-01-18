@@ -82,13 +82,13 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 <img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.6 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2024
+> 🏆 51 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -99,10 +99,10 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌆 Daytime                236 commits         ████████████░░░░░░░░░░░░░   46.64 % 
-🌃 Evening                157 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+🌞 Morning                108 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+🌆 Daytime                236 commits         ████████████░░░░░░░░░░░░░   46.55 % 
+🌃 Evening                157 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
@@ -142,5 +142,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SrPattif/SrPattif/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2024 12:13:48 UTC
+ Last Updated on 18/01/2024 12:43:11 UTC
 <!--END_SECTION:waka-->
