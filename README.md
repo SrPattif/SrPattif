@@ -4,7 +4,9 @@
 
 <p align="left"> 
   Olá! <strong>Meu nome é Gustavo.</strong> Sou apaixonado por desenvolvimento de software desde os 11 anos.<br>
+<!--
   Atualmente, sou <strong>Desenvolvedor Backend</strong> no <strong>Grupo Madero</strong>.
+-->
 </p>
 
 <p align="left">
@@ -29,7 +31,7 @@
   <a href="https://www.instagram.com/ogustavo.a/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
+<!--
 ---
 
 ### Experiência de trabalho
@@ -40,7 +42,7 @@
 [**Grupo Madero**](https://grupomadero.com.br/) • Estagiário \
 Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 <br/>
-
+-->
 ---
 
 ### Minhas habilidades
