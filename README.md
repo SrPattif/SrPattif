@@ -31,9 +31,10 @@
   <a href="https://www.instagram.com/ogustavo.a/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-<!--
----
 
+<!--
+
+---
 ### Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/APkrFKbNFi6Ffp9I6h3ryOzEgBfyFqDJWqD_XgUVw9SCXg=s68-c-k-c0x00ffffff-no-rj"/>](https://www.grupomadero.com.br/)
