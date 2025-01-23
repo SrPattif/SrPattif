@@ -1,52 +1,47 @@
-![](https://komarev.com/ghpvc/?username=SrPattif&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SrPattif&style=flat)
+<img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 
+<!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+-->
 
-<p align="left"> 
-  Olá! <strong>Meu nome é Gustavo.</strong> Sou apaixonado por desenvolvimento de software desde os 11 anos.<br>
+<h2 align="center">Olá! <strong>Meu nome é Gustavo.</strong> 🙋</h2>
+<p align="center">Sou apaixonado por desenvolvimento de software desde os 11 anos.</p>
+  
+<br />
+
 <!--
   Atualmente, sou <strong>Desenvolvedor Backend</strong> no <strong>Grupo Madero</strong>.
 -->
-</p>
 
 <p align="left">
-  <strong>🦄 Linguagens:</strong> Utilizo principlalmente <strong>C#</strong>, mas domino <strong>Java</strong> e <strong>PHP</strong>.
+  <strong>🧑‍💻 Linguagens:</strong> Utilizo principlalmente <strong>C#</strong>, mas domino <strong>Java</strong> e <strong>PHP</strong>.
 </p>
 
 <p align="left">
   <strong>💼 Ferramentas:</strong> Eclipse, VSCode, Visual Studio, IIS, SSMS, Postman e muitas outras!
 </p>
 
-<p align="left">
-  <strong>💌 Sinta-se a vontade para entrar em contato! ⤵️</strong>
+---
+
+<p align="center">
+  <strong>📩 Entre em contato! ⤵️</strong>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:ogustavoantonio07@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="https://br.linkedin.com/in/gustavo-antonio-antunes-rodrigues-549a41223" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
   <a href="https://www.instagram.com/ogustavo.a/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<!--
-
----
-### Experiência de trabalho
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/APkrFKbNFi6Ffp9I6h3ryOzEgBfyFqDJWqD_XgUVw9SCXg=s68-c-k-c0x00ffffff-no-rj"/>](https://www.grupomadero.com.br/)
-
-**Desenvolvedor Backend** \
-[**Grupo Madero**](https://grupomadero.com.br/) • Estagiário \
-Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
-<br/>
--->
 ---
 
-### Minhas habilidades
+<h3 align="center">Minhas habilidades 🔧</h3>
 
 #### Aplicações e dados
 
@@ -77,10 +72,9 @@ Linguagens & Tecnologias: `C#`, `SQL Server`, `VSCode`, `Postman` \
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-4a4885?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Trello](https://img.shields.io/badge/TRELLO-0079bf?style=for-the-badge&logo=trello&logoColor=white)
 
+---
+
 <!-- WAKATIME -->
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry&langs_count=10" height="250px"/>
-</p>
-<p>
-<img src="https://wakatime.com/badge/user/c0ee8f9f-ed06-4ce4-8839-296a12dd152a.svg"/>
 </p>
