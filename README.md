@@ -6,7 +6,6 @@
 -->
 
 <h2 align="center">Olá! <strong>Meu nome é Gustavo.</strong> 🙋</h2>
-<p align="center">Sou apaixonado por desenvolvimento de software desde os 11 anos.</p>
   
 <br />
 
@@ -15,7 +14,7 @@
 -->
 
 <p align="left">
-  <strong>🧑‍💻 Linguagens:</strong> Utilizo principlalmente <strong>C#</strong>, mas domino <strong>Java</strong> e <strong>PHP</strong>.
+  <strong>🧑‍💻 Linguagens:</strong> Utilizo principlalmente <strong>C#</strong> para construir APIs e Integrações.
 </p>
 
 <p align="left">
