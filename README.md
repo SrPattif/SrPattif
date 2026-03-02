@@ -75,6 +75,5 @@
 ---
 
 <!-- WAKATIME -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrPattif&theme=blueberry&langs_count=10" height="250px"/>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
