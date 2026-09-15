@@ -14,13 +14,13 @@ I'm a backend developer primarily focused on the **C# / .NET** ecosystem, buildi
 <!--START_SECTION:waka-->
 
 ```txt
-C#                611 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.73 %
-Java              508 hrs 51 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
-Binary            215 hrs 47 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-PHP               165 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+C#                611 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.71 %
+Java              508 hrs 51 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Binary            215 hrs 47 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+PHP               165 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 Other             90 hrs 22 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JavaScript        86 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-SCSS              50 hrs 24 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript        86 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+SCSS              50 hrs 24 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
